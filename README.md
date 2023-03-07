@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohd-Hassan-Abbas
-- 👀 I’m interested in Data structures and algorithms
-- 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on Android development
+- 👀 I’m interested in Machine Learning And Depp Learning
+- 🌱 I’m currently learning CNN Alogrithm With Keras And Torch
+- 💞️ I’m looking to collaborate on Machine Learning And Artificial Intelligence
 - 📫 How to reach me -> mohdhassanabbas30122003@gmail.com
 
 <!---
